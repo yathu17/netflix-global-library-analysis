@@ -26,6 +26,7 @@ Process Executed
  
 
 Key Findings
+
 	•	Movies dominate Netflix’s catalog: Roughly 70% of titles are movies, while ~30% are TV shows.
 	•	Content growth surged after 2010: The largest spike in new releases occurred between 2015–2020, aligning with Netflix’s global expansion.
 	•	United States leads in content production, followed by India, UK, and Canada.
