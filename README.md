@@ -7,6 +7,7 @@ Tools & Libraries Used
 
 
 Process Executed
+
 	1.	Data Cleaning
 	•	Removed missing values in key columns (country, rating).
 	•	Converted date_added to a proper datetime format (handled leading spaces).
