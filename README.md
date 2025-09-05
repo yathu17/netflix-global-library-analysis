@@ -11,11 +11,13 @@ Process Executed
 	•	Removed missing values in key columns (country, rating).
 	•	Converted date_added to a proper datetime format (handled leading spaces).
 	•	Standardized categorical values (genres, countries).
+ 
 	2.	Exploratory Data Analysis (EDA)
 	•	Compared Movies vs TV Shows distribution.
 	•	Analyzed content release trends over the years.
 	•	Identified top countries producing Netflix content.
 	•	Explored genre distribution across titles.
+ 
 	3.	Visualization
 	•	Bar plots for content types, genres, and countries.
 	•	Line charts for yearly release trends.
